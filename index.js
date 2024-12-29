@@ -7,10 +7,8 @@ const recipecontent= document.querySelector('.reccontent');
 const closebut = document.querySelector('.close');
 // Function to remove the background image when searching
 const removeBackgroundImage = () => {
-   homeSection.style.background = 'none'; 
-    //homeSection.classList.remove('home');
-   // recipecontainer.classList.remove('recipe');
-     // Removes the background image
+   homeSection.style.background = 'none'
+    
 };
 
 
@@ -48,7 +46,7 @@ res.meals.forEach(k => {
 
 });}
 catch(error){
-recipecontainer1.innerHTML="<h2>Error in fetching recipes</h2>"
+recipecontainer1.innerHTML="<h2>Cannot find this food</h2>"
 }
 }
 const getIngredients=(me)=>{
