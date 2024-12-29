@@ -14,35 +14,6 @@ You can try out the live version of the app at the following link: [Live Demo](h
 
 - **Frontend**: HTML, CSS, JavaScript
 
-## Installation
-
-Follow these steps to set up the project locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/aryan10092/recipe-app2.git
-   cd recipe-app2
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Set up environment variables:**
-   Create a `.env` file in the root directory and add the following:
-   ```env
-   MONGO_URL=mongodb://localhost:27017/recipe-app
-   PORT=3000
-   JWT_SECRET=your-secret-key
-   ```
-
-4. **Run the development server:**
-   ```bash
-   npm start
-   ```
-   The app should now be running at `http://localhost:3000`.
-
 ## Usage
 
 1. Open the app in your browser.
