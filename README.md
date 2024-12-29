@@ -5,8 +5,6 @@ A user-friendly web application designed to help users discover, organize, and s
 ## Live Demo
 You can try out the live version of the app at the following link: [Live Demo](https://aryan10092.github.io/recipe-app2/)
 
-
-
 ## Features
 
 - **Recipe Search**: Find recipes quickly by keyword or ingredient.
