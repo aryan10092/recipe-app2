@@ -1,8 +1,10 @@
 # Recipe App
 
 A user-friendly web application designed to help users discover, organize, and share recipes. Built with modern web technologies for a seamless experience.
+Live Demo
+You can try out the live version of the chatbot at the following link:https://aryan10092.github.io/recipe-app2/
 
-link:https://aryan10092.github.io/recipe-app2/
+
 
 ## Features
 
